@@ -7,6 +7,8 @@ public class welcome {
 		System.out.println("Welcome to the world of DevOps");
 		
 		System.out.println(20+30);
+		
+		System.out.println("Program by Sheetal Aruna and Moorthy");
 
 	}
 
