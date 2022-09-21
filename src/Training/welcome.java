@@ -6,9 +6,10 @@ public class welcome {
 		
 		System.out.println("Welcome to the world of DevOps");
 		
-		
-		
 		System.out.println("Program by Sheetal Aruna and Moorthy");
+		
+		System.out.println("Welcome to the Jenkins Master Tool For Integration");
+		
 
 	}
 
