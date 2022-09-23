@@ -6,6 +6,7 @@ public class login {
 		
 		System.out.println("Login to the page to access services");
 		System.out.println("Welcome to CodeLab Home");
+		System.out.println("Testing Poll SCM");
 	}
 
 }
